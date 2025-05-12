@@ -194,6 +194,7 @@ A gerência do projeto (Arthur Luz) é responsável por fiscalizar a aplicação
 ---
 
 ##👨‍💻 Contribuidores
+
 Arthur Luz – Gerente de Projeto
 
 Bruno – Desenvolvedor Full Stack
